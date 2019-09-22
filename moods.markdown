@@ -4,6 +4,16 @@ title: Moods
 permalink: /moods/
 ---
 
+#### 2019-09-22 14:59:20
+
+到女朋友公司蹭吃蹭喝，顺带学习，已经十分熟练了。
+
+![](https://gitee.com/lolopop/markdown_pic/raw/master/owkxGJ.png)
+
+#### 2019-09-18 20:56:19
+
+好几天没有更新状态了，想想自己一年的工作，自信心极其受挫。按照导师说的，一步一步来，努力达到1.1分
+
 #### 2019-09-10 22:05:32 
 
 姜还是老的辣啊，今天课上感觉导师讲的东西真的professional，关于contribution, approach, 关于challenge和motivation，感觉有一种醍醐灌顶的感觉。想想一年以来，自己深有体会。
@@ -15,6 +25,8 @@ permalink: /moods/
 #### 2019-09-05 17:05:32 
 
 感觉phd的路上需要记录一下每天的心情，就搭了个简单的网站 
+
+
 
 
 
