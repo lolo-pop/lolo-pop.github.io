@@ -4,7 +4,11 @@ title: About
 permalink: /about/
 ---
 
+Chenghao Rong 
+
+
+
 PhD candidate in Tsinghua University
 
-Focus on streaming analysis, edge computing
+**Research areas**: Streaming analysis, Edge computing
 
