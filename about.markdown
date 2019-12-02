@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About
+title: Chenghao Rong
 permalink: /about/
 ---
-
-Chenghao Rong 
 
 
 
