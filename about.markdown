@@ -1,8 +1,12 @@
 ---
 layout: page
-title: Chenghao Rong
-permalink: /about/
+title: about
+permalink: /Chenghao Rong/
 ---
+
+
+
+Chenghao Rong
 
 
 
