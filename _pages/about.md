@@ -46,4 +46,4 @@ Publications
 
 For more info
 ------
-More info about me can be found in [CV](https://lolo-pop.github.io/CV/).
+More info about me can be found in [CV](https://lolo-pop.github.io/cv/).
